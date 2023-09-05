@@ -2,7 +2,7 @@
 
 #### Building a game engine from scratch in C++..
 
-#####     C++ Programming:
+     C++ Programming:
         You should have a solid understanding of C++ since most game engines are written in this language.
         Source: Start with online C++ tutorials and courses on platforms like Codecademy, Coursera, or Udemy. Books like "Accelerated C++" by Andrew Koenig and Barbara E. Moo can also be helpful.
 
